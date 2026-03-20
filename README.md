@@ -1,2 +1,12 @@
 # TestAutomated
 ForAutomatedTestExam
+
+GuideBook
+ขั้นตอนการรัน Script  
+1) เปิดโฟลเดอร์ EmpeoAutomated ใน vscode  
+2) เปิด new terminal  
+3) รันคำสั่ง  
+4) รันคำสั่ง 
+.\.venv\Scripts\Activate.ps1 
+robot ./testcase/RegisterTestcase.robot  
+5) โปรแกรมจะแสดงหน้าwebEmpeo และรันคำสั่งตามสคริปที่เขียนไว้ 

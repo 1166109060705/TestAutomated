@@ -1,11 +1,11 @@
 # GuideBook
 
-**ขั้นตอนการรัน Script  **
+**** ขั้นตอนการรัน Script  ****
 1) เปิดโฟลเดอร์ EmpeoAutomated ใน vscode
    
 2) เปิด new terminal
  
-3) รันคำสั่ง   .\.venv\Scripts\Activate.ps1
+3) รันคำสั่ง   .\.venv\Scripts\Activate.ps1 
  
 4) รันคำสั่ง   robot ./testcase/RegisterTestcase.robot  
 
